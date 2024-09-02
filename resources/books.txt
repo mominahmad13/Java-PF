@@ -1,0 +1,9 @@
+Introduction to Java Programming
+Effective Java
+The Art of Computer Programming
+Java Concurrency in Practice
+Clean Code: A Handbook of Agile Software Craftsmanship
+Design Patterns: Elements of Reusable Object-Oriented Software
+Head First Java
+Java: The Complete Reference
+The Pragmatic Programmer
